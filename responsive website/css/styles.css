@@ -23,10 +23,6 @@ header .logo
   text-decoration: none;
   font-size: 2em;
   font-weight: 700;
-<<<<<<< HEAD
-  
-=======
->>>>>>> main
 }
 .group
 {
@@ -101,10 +97,8 @@ header .logo
   position: relative;
   color: #fff;
   font-size: 6em;
-<<<<<<< HEAD
   text-align: center;
-=======
->>>>>>> main
+
 }
 .btn
 {
@@ -161,7 +155,6 @@ header .logo
   cursor: pointer;
   letter-spacing: 2px;
   padding: 13px;
-<<<<<<< HEAD
 }
 /* 響應式設計 */
 @media(max-width: 991px)
@@ -200,11 +193,11 @@ header .logo
     display: block;
   }
 
-  .menuToggle  ion-icon:nth-child(1)
+  .menuToggle ion-icon:nth-child(1)
   {
     display: block;
   }
-  .menuToggle  ion-icon:nth-child(2)
+  .menuToggle ion-icon:nth-child(2)
   {
     display: none;
   }
@@ -267,6 +260,3 @@ header .logo
       display: none;
     }
   }
-=======
-}
->>>>>>> main
