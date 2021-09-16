@@ -1,0 +1,31 @@
+.colorPalett{
+    width: 300px;
+    /* border: 1px solid #000; */
+    /* solid 實線;dotted 點線;dashed 斷線*/
+    box-shadow: 5px 5px 20px rgba(0,0,0,0.5);
+}
+p{
+    font-size: 18px;
+    font-family: 微軟正黑體;
+    background-color: #ccc;
+    color: #fff;
+    line-height: 2;
+    text-align: center;
+    margin: 0;
+}
+.color1{
+    background-color: #ACDBC9;
+}
+.color2{
+    background-color: #DBEBC2;
+}
+.color3{
+    background-color: #FDD285;
+}
+.color4{
+    background-color: #F7A7A6;
+}
+.color5{
+    background-color: #F48894;
+    height: 200px;
+}
